@@ -32,7 +32,7 @@ python3 supra_evm/1_createPayload.py
 ```
 ## NOTE: Make sure to place the OUTPUT (signed payload) against `signed_payload`
 
-- ### Step 2: Submit Sepolia Signed Transaction
+- ### Step 2: Submit Supra Signed Transaction
 
 ```
 python3 supra_evm/2_submit.py
