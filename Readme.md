@@ -1,5 +1,5 @@
 
-## [ Transfer Sepolia Faucet ]
+## Transfer Sepolia Faucet
 
 ### Install necessary dependencies: 
 ```
@@ -23,7 +23,7 @@ python3 sepolia_evm/2_submit.py
 ```
 <br> <br>
 
-## [ Transfer Supra-EVM Faucet ]
+## Transfer Supra-EVM Faucet 
 
 - ### Step 1: Create Signed Transaction
 
